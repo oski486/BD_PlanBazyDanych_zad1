@@ -7,6 +7,8 @@ Sprawozdanie: Projektowanie bazy danych
     2. Daniel Szokało
     3. Dawid Szkoało
 
+* **Link do repozytorium z modułem:** ``[https://github.com/oski486/BD_PlanBazyDanych_zad1]``
+
 1. Wybór zagadnienia, opis procesów i danych
 ============================================
 
