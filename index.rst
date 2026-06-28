@@ -7,7 +7,7 @@ Projektowanie bazy danych
     2. Daniel Szokało
     3. Dawid Szokało
 
-* **Link do repozytorium z modułem:** ``[https://github.com/oski486/BD_PlanBazyDanych_zad1]``
+* **Link do repozytorium z modułem:** `https://github.com/oski486/BD_PlanBazyDanych_zad1`
 
 Wybór zagadnienia, opis procesów i danych
 =========================================
